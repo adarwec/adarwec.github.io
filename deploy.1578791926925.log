@@ -1,0 +1,19 @@
+Deploying dynamicfx to dev.dynamicfx.ca on Sat Jan 11 2020 20:18:46 GMT-0500 (Eastern Standard Time)
+Gzipped site content into dist_gzip
+Syncing ./dist_gzip with dev.dynamicfx.ca
+Completed 469 Bytes/779.3 KiB (5.5 KiB/s) with 16 file(s) remainingupload: dist_gzip/.DS_Store to s3://dev.dynamicfx.ca/.DS_Store     
+Completed 469 Bytes/779.3 KiB (5.5 KiB/s) with 15 file(s) remainingCompleted 4.4 KiB/779.3 KiB (20.3 KiB/s) with 15 file(s) remaining upload: dist_gzip/images/dynamicfx.png to s3://dev.dynamicfx.ca/images/dynamicfx.png
+Completed 4.4 KiB/779.3 KiB (20.3 KiB/s) with 14 file(s) remainingCompleted 9.0 KiB/779.3 KiB (38.6 KiB/s) with 14 file(s) remainingupload: dist_gzip/images/dynamicfx1.png to s3://dev.dynamicfx.ca/images/dynamicfx1.png
+Completed 9.0 KiB/779.3 KiB (38.6 KiB/s) with 13 file(s) remainingCompleted 13.6 KiB/779.3 KiB (55.2 KiB/s) with 13 file(s) remainingupload: dist_gzip/images/percent.png to s3://dev.dynamicfx.ca/images/percent.png
+Completed 13.6 KiB/779.3 KiB (55.2 KiB/s) with 12 file(s) remainingCompleted 20.0 KiB/779.3 KiB (69.6 KiB/s) with 12 file(s) remainingupload: dist_gzip/images/buysell.png to s3://dev.dynamicfx.ca/images/buysell.png
+Completed 20.0 KiB/779.3 KiB (69.6 KiB/s) with 11 file(s) remainingCompleted 24.3 KiB/779.3 KiB (83.0 KiB/s) with 11 file(s) remainingupload: dist_gzip/images/telegram.png to s3://dev.dynamicfx.ca/images/telegram.png
+Completed 24.3 KiB/779.3 KiB (83.0 KiB/s) with 10 file(s) remainingCompleted 30.5 KiB/779.3 KiB (102.4 KiB/s) with 10 file(s) remainingupload: dist_gzip/images/logo.png to s3://dev.dynamicfx.ca/images/logo.png
+Completed 30.5 KiB/779.3 KiB (102.4 KiB/s) with 9 file(s) remainingCompleted 47.7 KiB/779.3 KiB (159.8 KiB/s) with 9 file(s) remainingupload: dist_gzip/images/sendPhone.png to s3://dev.dynamicfx.ca/images/sendPhone.png
+Completed 47.7 KiB/779.3 KiB (159.8 KiB/s) with 8 file(s) remainingCompleted 48.1 KiB/779.3 KiB (150.6 KiB/s) with 8 file(s) remainingupload: dist_gzip/index.html to s3://dev.dynamicfx.ca/index.html   
+Completed 48.1 KiB/779.3 KiB (150.6 KiB/s) with 7 file(s) remainingCompleted 52.7 KiB/779.3 KiB (162.8 KiB/s) with 7 file(s) remainingupload: dist_gzip/images/dynamicfx2.png to s3://dev.dynamicfx.ca/images/dynamicfx2.png
+Completed 52.7 KiB/779.3 KiB (162.8 KiB/s) with 6 file(s) remainingCompleted 53.1 KiB/779.3 KiB (163.2 KiB/s) with 6 file(s) remainingupload: dist_gzip/images/.DS_Store to s3://dev.dynamicfx.ca/images/.DS_Store
+Completed 53.1 KiB/779.3 KiB (163.2 KiB/s) with 5 file(s) remainingCompleted 53.6 KiB/779.3 KiB (141.9 KiB/s) with 5 file(s) remainingupload: dist_gzip/styles/main.css to s3://dev.dynamicfx.ca/styles/main.css
+Completed 53.6 KiB/779.3 KiB (141.9 KiB/s) with 4 file(s) remainingCompleted 216.5 KiB/779.3 KiB (454.4 KiB/s) with 4 file(s) remainingupload: dist_gzip/private/js/app.js to s3://dev.dynamicfx.ca/private/js/app.js
+Completed 216.5 KiB/779.3 KiB (454.4 KiB/s) with 3 file(s) remainingCompleted 340.4 KiB/779.3 KiB (305.2 KiB/s) with 3 file(s) remainingupload: dist_gzip/images/phone.png to s3://dev.dynamicfx.ca/images/phone.png
+Completed 340.4 KiB/779.3 KiB (305.2 KiB/s) with 2 file(s) remainingCompleted 596.4 KiB/779.3 KiB (520.2 KiB/s) with 2 file(s) remainingCompleted 704.5 KiB/779.3 KiB (612.5 KiB/s) with 2 file(s) remainingupload: dist_gzip/images/home.png to s3://dev.dynamicfx.ca/images/home.png
+Completed 704.5 KiB/779.3 KiB (612.5 KiB/s) with 1 file(s) remainingCompleted 779.3 KiB/779.3 KiB (335.2 KiB/s) with 1 file(s) remainingupload: dist_gzip/images/about.png to s3://dev.dynamicfx.ca/images/about.png

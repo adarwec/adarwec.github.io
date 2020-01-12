@@ -1,0 +1,4 @@
+{
+  "/sendEmail": "https://gmggnmmvph.execute-api.ca-central-1.amazonaws.com/ad/api/v1/sendEmail",
+  "/subscribeUser": "https://gmggnmmvph.execute-api.ca-central-1.amazonaws.com/ad/api/v1/subscribeUser"
+}

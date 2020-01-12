@@ -1,0 +1,66 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #fff;
+  color: #fff;
+  height: 100vh;
+  width: 100%;
+  line-height: 1.6;
+  /* overflow: hidden; */
+}
+
+section {
+  height: 100%;
+  width: 100%;
+}
+
+/* Section Images */
+section#home {
+  background-color: #363636;
+  background: url("../images/home.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: repeat-y;
+}
+
+/* section#about {
+    background-color: #ffffff;
+  } */
+
+/* section#services {
+  background-color: #ebebeb;
+} */
+
+section#footer {
+  background-color: #e94348;
+}
+
+i {
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 4px;
+  margin-left: 6px;
+  margin-bottom: 2px;
+}
+
+.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+.left {
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+}
+
+.up {
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+}
+
+.down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}

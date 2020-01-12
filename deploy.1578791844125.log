@@ -1,0 +1,4 @@
+Deploying dynamicfx to dev.dynamicfx.ca on Sat Jan 11 2020 20:17:24 GMT-0500 (Eastern Standard Time)
+Gzipped site content into dist_gzip
+Syncing ./dist_gzip with dev.dynamicfx.ca
+Deployment failure: {"status":255,"signal":null,"output":[null,{"type":"Buffer","data":[]},{"type":"Buffer","data":[10,85,110,107,110,111,119,110,32,111,112,116,105,111,110,115,58,32,45,45,99,111,110,116,101,110,116,45,101,110,99,111,105,110,103,61,103,122,105,112,10]}],"pid":27052,"stdout":{"type":"Buffer","data":[]},"stderr":{"type":"Buffer","data":[10,85,110,107,110,111,119,110,32,111,112,116,105,111,110,115,58,32,45,45,99,111,110,116,101,110,116,45,101,110,99,111,105,110,103,61,103,122,105,112,10]}}
